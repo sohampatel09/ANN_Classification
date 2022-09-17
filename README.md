@@ -1,2 +1,2 @@
 # ANN_Classification
-This is a small project based on ANN Model using classification
+This is a small project based on ANN Model using classification with bank customer dataset
